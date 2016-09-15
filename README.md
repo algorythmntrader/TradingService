@@ -3,6 +3,7 @@ Initial Release
 Server App needed to run client app!  
 You need SQL Server installed on the machine to run Server App.  
 Create a Database named "DataServer" and run the script "script.sql".  
+Than, create a user and password in "Users" table from database. For this you could use SQLServer Management Studio.  
   
 1. Copy "DataBaseIAutentification.set" in server folder and modify "Data Source=YOURSQLSERVERINSTANCE" to fit your environment.  
 2. Start Server App.  
