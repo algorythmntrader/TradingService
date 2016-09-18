@@ -13,3 +13,5 @@ Than, create a user and password in "Users" table from database. For this you co
 6. Start Client App.  
 7. Config all Login fields.  
 8. Hit "Login" button.  
+  
+For more details: [Wiki](https://github.com/algorythmntrader/ProjectAlpha/wiki/) 
